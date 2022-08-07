@@ -1,0 +1,7 @@
+- Properly handle all the .unwrap()s!
+- Prompt the user to choose the correct record among the ones given in the search results
+- Allow user to select specific release via the release ID
+- Implement autofill commands when hitting Tab
+- Improve the image to ascii art
+- Change AsciiArt to be saved as a string instead of being serialized to take up less space
+- Automatically add user's record collection from their discogs account
