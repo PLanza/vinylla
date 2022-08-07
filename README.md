@@ -2,7 +2,7 @@
 
 A terminal application that displays your record collection's info. You'll need a [Discogs](https://www.discogs.com/) account in order to use the application, as it makes use of their developer API to search through their database of records so that you don't have to input all the information manually.
 
-![Sample_Image](/home/pablo/.config/Typora/typora-user-images/image-20220806205120429.png)
+![Sample_Image](./Sample_Image.png)
 
 
 
